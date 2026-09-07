@@ -19,7 +19,6 @@ Project ini menyajikan analisis end-to-end terhadap data pemesanan dua tipe hote
 
 ## 🖥️ Isi Dashboard
 
-**Dashboard** berisi:
 
 | Komponen | Deskripsi |
 |---|---|
