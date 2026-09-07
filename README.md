@@ -37,4 +37,4 @@ Dashboard dilengkapi filter interaktif: **Tahun Kedatangan**, **Tipe Hotel**, da
 
 ## 🗂️ Dataset
 
-Sumber data: dataset publik **Hotel Booking Demand** -> https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand (Kaggle).
+Sumber data: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand (Kaggle).
