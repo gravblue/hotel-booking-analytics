@@ -17,7 +17,7 @@ Project ini menyajikan analisis end-to-end terhadap data pemesanan dua tipe hote
 
 🌐 Link: **https://public.tableau.com/views/Hotel_Booking_Analytics/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 
-## 🖥️ Isi Dashboard
+## 🖥️ Dashboard
 
 
 | Komponen | Deskripsi |
