@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking Analytics Dashboard
+# Hotel Booking Analytics Dashboard 🏨
 
 Dashboard interaktif berbasis Tableau untuk menganalisis pola pemesanan hotel, tingkat pembatalan (*cancellation*), rata-rata harga kamar (ADR), dan asal tamu. Dibangun dari dataset publik Hotel Booking Demand.
 
