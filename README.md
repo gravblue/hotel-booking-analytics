@@ -33,7 +33,7 @@ Project ini menyajikan analisis end-to-end terhadap data pemesanan dua tipe hote
 | Bookings by Customer Type | Jumlah booking per tipe pelanggan |
 | Guest Origin Map | Peta asal negara tamu |
 
-Dashboard dilengkapi filter interaktif: **Tahun Kedatangan**, **Tipe Hotel**, dan **Market Segment**.
+Dashboard dilengkapi filter interaktif: Tahun Kedatangan, Tipe Hotel, dan Market Segment.
 
 ## 📌 Key Metrics
 
