@@ -48,7 +48,7 @@ Dashboard dilengkapi filter interaktif: Tahun Kedatangan, Tipe Hotel, dan Market
 
 1. Dari chart Monthly Cancellation Trend, bulan dengan cancellation rate tertinggi berbeda antara dua hotel. Untuk City Hotel, puncaknya di bulan April sekitar 35%, sedangkan untuk Resort Hotel puncaknya di bulan Agustus sekitar 32%, kemungkinan karena Resort Hotel lebih terkait musim liburan musim panas, sementara City Hotel polanya lebih ke musim bisnis atau libur sekolah.
 2. Segmen Online TA dan Direct punya rata-rata ADR (harga per malam) tertinggi, sekitar €118 sampai €119, sementara segmen Complementary jauh lebih rendah, di kisaran €3.
-3. Mayoritas booking dilakukan dengan lead time pendek (di bawah 100 hari sebelum kedatangan), dan jumlah booking makin menurun drastis seiring lead time makin panjang.
+3. Mayoritas booking dilakukan dengan lead time pendek (di bawah 100 hari sebelum kedatangan), di mana jumlah booking menurun drastis seiring lead time makin panjang.
 4. Booking dengan tipe deposit non-refundable memiliki tingkat pembatalan (cancellation rate) tertinggi, yaitu sekitar 95%, dibandingkan tipe deposit lainnya yang berada di kisaran 25%.
 5. Mayoritas tamu dengan 71.398 booking adalah tipe Transient, artinya tamu individual/keluarga.
 6. Portugal menjadi negara asal tamu terbanyak, konsisten dengan fakta bahwa dataset ini berasal dari hotel yang berlokasi di Portugal.
